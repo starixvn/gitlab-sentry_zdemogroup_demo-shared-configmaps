@@ -5,3 +5,5 @@ include:
 
 variables:
   SYNC_ARGOCD_SHARED_CONFIGMAPS_APP: 'true'
+
+#test
