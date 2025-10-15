@@ -1,0 +1,7 @@
+include:
+  - project: ci/core-cicd
+    ref: sync_shared_configmaps
+    file: nexcel.gitlab-ci.yml
+
+variables:
+  SYNC_ARGOCD_SHARED_CONFIGMAPS_APP: 'true'
