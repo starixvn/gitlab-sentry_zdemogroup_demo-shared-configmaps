@@ -1,5 +1,5 @@
 window.envConfig = {
     environment: "UAT",
     applicationName: "Sample1",
-    version: "1.0.2"
+    version: "1.0.3"
 };
